@@ -1,0 +1,355 @@
+.div1{
+    height:60px;
+    width:1520px;
+    background-color:rgb(68, 210, 210);
+    position: sticky;
+    
+}
+*{
+    margin: 0px;
+}
+.home1{
+    text-decoration: none;
+    color: aliceblue;
+}
+.home{
+    position: absolute;
+    top:20px;
+    right:315px;
+    color:rgb(251, 248, 244);
+}
+.demos{
+    position: absolute;
+    top:20px;
+    right:255px;
+    color:rgb(251, 248, 244);
+
+}
+.docs{
+    position: absolute;
+    top:20px;
+    right:200px;
+    color:rgb(251, 248, 244);
+
+}
+.download{
+    position: absolute;
+    top:20px;
+    right:115px;
+    color:rgb(251, 248, 244);
+}
+.headercontent{
+    position: absolute;
+    top:20px;
+    left: 200px;
+    color:rgb(251, 248, 244);
+  
+}
+.div2{
+    height:70px;
+    width:1340px;
+    background-color:rgb(251, 248, 244);
+    position: absolute;
+    top:60px;
+    left:0px;
+    font-size: 250%;
+    padding-top: 20px;
+    padding-left: 180px;
+}
+.word1{
+    position: absolute;
+    top:210px;
+    left:150px;
+    font-size: x-large;
+}
+.word2{
+    position: absolute;
+    top:190px;
+    left:440px;
+    font-size: 60px;
+}
+.box1{
+    
+    height:50px;
+    width:200px;
+    position: absolute;
+    top:250px;
+    left:110px;
+    background-color: rgb(247, 228, 228);
+    padding-top: 20px;
+    padding-left: 100px;
+    font-size: xx-large;
+}
+.word3{
+    position: absolute;
+    top:340px;
+    left:230px;
+    color: darkgray;
+    font-size: x-large;
+}
+.word3:hover{
+    background-color:darkgray;
+    color: black;
+}
+.div3{
+    height:60px;
+    width:6px;
+    background-color: rgb(68, 210, 210);
+    position: absolute;
+    top:310px;
+    left: 440px;
+}
+.div4{
+    position: absolute;
+    top:320px;
+    left: 470px;
+    color: darkgray;
+    font-size: x-large;
+}
+.word4{
+    position: absolute;
+    top:380px;
+    left:270px;
+    color: darkgray;
+    font-size: x-large;
+}
+.word4:hover{
+    background-color:darkgray;
+    color: black;
+}
+.word5{
+    position: absolute;
+    top:420px;
+    left:440px;
+    font-size: xx-large;
+}
+.word6{
+    position: absolute;
+    top:460px;
+    left:290px;
+    font-size: larger;
+}
+.word7{
+    position: absolute;
+    top:500px;
+    left:250px;
+    font-size: larger;
+    color: darkgray;;
+}
+.word7:hover{
+    background-color:darkgray;
+    color: black;
+}
+.word8{
+    position: absolute;
+    top:550px;
+    left:250px;
+    font-size: larger;
+    color: darkgray;;
+}
+.word8:hover{
+    background-color:darkgray;
+    color: black;
+}
+.word9{
+    position: absolute;
+    top:600px;
+    left:250px;
+    font-size: larger;
+    color: darkgray;;
+}
+.word9:hover{
+    background-color:darkgray;
+    color: black;
+}
+.ul{
+    position: absolute;
+    top:480px;
+    left: 410px;
+}
+.word10{
+    position: absolute;
+    top:640px;
+    left:230px;
+    font-size: x-large;
+}
+.word11{
+    position: absolute;
+    top:690px;
+    left:230px;
+    font-size: larger;
+    color: darkgray;;
+}
+.word11:hover{
+    background-color:darkgray;
+    color: black;
+}
+.word12{
+    position: absolute;
+    top:740px;
+    left:230px;
+    font-size: larger;
+    color: darkgray;;
+}
+.word12:hover{
+    background-color:darkgray;
+    color: black;
+}
+.word13{
+    position: absolute;
+    top:790px;
+    left:230px;
+    font-size: larger;
+    color: darkgray;;
+}
+.word13:hover{
+    background-color:darkgray;
+    color: black;
+}
+.word14{
+    position: absolute;
+    top:840px;
+    left:230px;
+    font-size: larger;
+    color: darkgray;;
+}
+.word14:hover{
+    background-color:darkgray;
+    color: black;
+}
+.word15{
+    position: absolute;
+    top:940px;
+    left:440px;
+    font-size: xx-large;
+}
+.word16{
+    position: absolute;
+    top:1010px;
+    left:240px;
+    font-size: x-large;
+}
+.div5{
+    position: absolute;
+    top:1000px;
+    left:430px;
+}
+.word17{
+    position: absolute;
+    top:1050px;
+    left:230px;
+    font-size: larger;
+    color: darkgray;;
+}
+.word17:hover{
+    background-color:darkgray;
+    color: black;
+}
+.word18{
+    position: absolute;
+    top:1100px;
+    left:230px;
+    font-size: larger;
+    color: darkgray;;
+}
+.word18:hover{
+    background-color:darkgray;
+    color: black;
+}
+.word19{
+    position: absolute;
+    top:1150px;
+    left:230px;
+    font-size: larger;
+    color: darkgray;;
+}
+.word19:hover{
+    background-color:darkgray;
+    color: black;
+}
+.div6{
+    position: absolute;
+    top:1070px;
+    left:430px;
+}
+.ul2{
+    position: absolute;
+    top:1100px;
+    left: 410px;
+}
+.word20{
+    position: absolute;
+    top:1280px;
+    left:440px;
+    font-size: x-large;
+}
+.div7{
+    position: absolute;
+    top:1350px;
+    left:430px;
+}
+.div8{
+    position: absolute;
+    top:1400px;
+    left:430px;
+    font-size: larger;
+}
+.word21{
+    position: absolute;
+    top:1550px;
+    left:440px;
+    font-size: xx-large;
+}
+.word22{
+    position: absolute;
+    top:1630px;
+    left:440px;
+    font-size: x-large;
+}
+.div10{
+    position: absolute;
+    top:1670px;
+    left:440px;
+    height:500px;
+    width:800px;
+    background-color: rgb(231, 227, 227);
+    padding-top: 40px;
+    font-size: x-large;
+}
+.word23{
+    position: absolute;
+    top:2270px;
+    left:440px;
+    font-size: xx-large;
+}
+.word24{
+    position: absolute;
+    top:2340px;
+    left:440px;
+    font-size: x-large;
+}
+.word25{
+    position: absolute;
+    top:2430px;
+    left:440px;
+    font-size: 40px;
+}
+.word26{
+    position: absolute;
+    top:2500px;
+    left:440px;
+    font-size: xx-large;
+    color: rgb(20, 205, 205);
+}
+.div9{
+    height:60px;
+    width:820px;
+    background-color:rgb(251, 248, 244);
+    position: absolute;
+    top:2710px;
+    left:0px;
+    font-size: 150%;
+    padding-top: 30px;
+    padding-left: 700px;
+    color: rgb(35, 206, 206);
+}
